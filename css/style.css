@@ -1,0 +1,15 @@
+.products {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 900px;
+}
+
+.product {
+  background: rgb(124, 124, 210);
+
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+}
